@@ -12,7 +12,7 @@
 
 - ### Github: https://github.com/mjcrocamo/Capstone2019
 
-> ## This is the github specifically for the 2D Game that is available to play on the Under the Sea Web Application.
+- ### This is the github specifically for the 2D Game that is available to play on the Under the Sea Web Application.
 
 ## Love2D Version: 0.10.2
 
