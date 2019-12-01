@@ -161,23 +161,6 @@ function PlayState:update(dt)
         self.player:changeState('swing-hit')
     end
 
-    if love.keyboard.wasPressed('b') then
-        Timer.clear()
-        LEVEL_NUMBER = LEVEL_NUMBER + 1
-        gStateMachine:change('next-level-countdown', {
-            player = self.player,
-            levelNumber = LEVEL_NUMBER
-        })
-    end
-
-    if love.keyboard.wasPressed('c') then
-        Timer.clear()
-        gStateMachine:change('game-over', {
-            totalScore = self.player.totalScore,
-            levelNumber = LEVEL_NUMBER
-        })
-    end
-
     --[[ If enter key is pressed, pause the game ]]
     if love.keyboard.wasPressed('enter') or love.keyboard.wasPressed('return') then
         gStateMachine:change('pause',{
