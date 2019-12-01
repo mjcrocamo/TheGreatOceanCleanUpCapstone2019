@@ -10,7 +10,7 @@
 
 ### **Web Application**: Under the Sea: _An Interactive Guide to our World's Oceans_
 
-- ### Github: https://github.com/mjcrocamo/Capstone2019
+- ### Github: https://github.com/mjcrocamo/UnderTheSeaCapstone2019
 
 - ### This is the github specifically for the 2D Game that is available to play on the Under the Sea Web Application.
 
@@ -37,7 +37,7 @@
 
 - _Placeholder for production url of web application where it can be downloaded_
 
-## View in Development
+## Download and Play Now
 
 - Clone or download this repository
 - install LOVE2D version 0.10.2 on your machine: https://bitbucket.org/rude/love/downloads/
