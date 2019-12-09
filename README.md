@@ -35,7 +35,7 @@
 
 ## View in Production
 
-- _Placeholder for production url of web application where it can be downloaded_
+- https://oceansbeneaththesurface.herokuapp.com/#/games
 
 ## Download and Play Now
 
