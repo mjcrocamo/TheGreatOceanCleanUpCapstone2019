@@ -10,7 +10,7 @@
 
 This is the github specifically for the 2D Game that is available to play on the Under the Sea Web Application.
 
-### **Web Application**: Under the Sea: _An Interactive Guide to our World's Oceans_
+### **Web Application**: Under the Sea: _An Interactive Journey through our Planet's Oceans_
 
 - Github: https://github.com/mjcrocamo/UnderTheSeaCapstone2019
 
