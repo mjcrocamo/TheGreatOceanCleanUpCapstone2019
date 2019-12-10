@@ -60,17 +60,17 @@ Here is where Under the Sea solves that problem. It provides an interactive web 
 
 Play as Stevey the penguin, as he explores the ocean floor, cleaning up trash and squashing enemies.
 
-### **Game Objective**
+## **Game Objective**
 
 Clean up the ocean by collecting as much trash as possible. Progress through as many levels as you can and achieve your highest overall score.
 
 ### **Controls**
 
-- ### **Jump**: Space-Bar
-- ### **Move Left**: Left-Arrow
-- ### **Hit Enemy**: Shift-Left or Shift-Right
-- ### **Special Power-Up**: Grab a falling starfish and run in both directions picking up anything in site. Picking up any trash or killing any enemies in this state is worth double the points.
-- ### **Pause/Play**: Enter
+- **Jump**: Space-Bar
+- **Move Left**: Left-Arrow
+- **Hit Enemy**: Shift-Left or Shift-Right
+- **Special Power-Up**: Grab a falling starfish and run in both directions picking up anything in site. Picking up any trash or killing any enemies in this state is worth double the points.
+- **Pause/Play**: Enter
 
 ### **Scoring Points**
 
@@ -102,9 +102,9 @@ You must score enough points to advance to the next level before the timer runs 
 
 ## **Project Technologies**
 
-### For the 2D Game, **The Great Ocean Clean Up**, the **LOVE2D** Framework was used, a framework for making 2D games in lua.
+For the 2D Game, **The Great Ocean Clean Up**, the **LOVE2D** Framework was used, a framework for making 2D games in lua.
 
-> ### Below is a list the main technologies used to build this web application.
->
+Below is a list the main technologies used to build this web application.
+
 > - LOVE2D Documentation
 >   LÖVE. (n.d.). Retrieved July 21, 2019, from https://love2d.org/
